@@ -1,0 +1,36 @@
+body {
+	background-color: #eaeaea;
+}
+
+.container {
+	margin-top: 100px;
+}
+
+form {
+	width: 30%;
+	margin-left: 400px;
+	background-color: white;
+	padding: 10px;
+}
+
+img {
+	width: 30px;
+	height: 30px;
+}
+
+.judul {
+	margin-bottom: 5px;
+}
+
+.daftar-niomic {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.input, button {
+	width: 300px;
+}
+
+.items {
+	margin-bottom: 5px;
+}
